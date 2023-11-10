@@ -1,6 +1,4 @@
 n=float(input("Nhap muc do tieng on: "))
-
-# Xác định kết quả dựa trên giá trị mà người dùng nhập
 if n==130:
     print("Muc do tieng on la: Bua khoan (Jackhammer)")
 elif n==106 :
