@@ -1,4 +1,4 @@
-n=int(input("Nhap muc do tieng on: "))
+n=float(input("Nhap muc do tieng on: "))
 
 # Xác định kết quả dựa trên giá trị mà người dùng nhập
 if n==130:
