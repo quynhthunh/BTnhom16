@@ -1,4 +1,4 @@
-n=int(input("Nhập số lượng cạnh (từ 3-10): "))
+n=int(input("Nhap so luong canh (3-10): "))
 if 3<=n<=10:
     if n == 3:
         ten_hinh = "Tam giac"
